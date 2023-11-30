@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
 # dyna.github.io
+---
+---
+
+@import "{{ site.theme }}";
