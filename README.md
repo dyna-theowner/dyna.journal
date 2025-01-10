@@ -1,5 +1,3 @@
-# dyna.github.io
----
----
-
-@import "{{ site.theme }}";
+# Welcome
+## s
+c
